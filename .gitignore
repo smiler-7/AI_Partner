@@ -1,0 +1,12 @@
+# API 密钥
+.env
+
+# 会话存储目录
+sessions/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
